@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/digitwist/static/css/main.752cac5f.chunk.css",
+    "main.js": "/digitwist/static/js/main.eef5303c.chunk.js",
+    "main.js.map": "/digitwist/static/js/main.eef5303c.chunk.js.map",
+    "runtime-main.js": "/digitwist/static/js/runtime-main.86fa319a.js",
+    "runtime-main.js.map": "/digitwist/static/js/runtime-main.86fa319a.js.map",
+    "static/js/2.dddfade5.chunk.js": "/digitwist/static/js/2.dddfade5.chunk.js",
+    "static/js/2.dddfade5.chunk.js.map": "/digitwist/static/js/2.dddfade5.chunk.js.map",
+    "static/js/3.0678aced.chunk.js": "/digitwist/static/js/3.0678aced.chunk.js",
+    "static/js/3.0678aced.chunk.js.map": "/digitwist/static/js/3.0678aced.chunk.js.map",
+    "index.html": "/digitwist/index.html",
+    "static/css/main.752cac5f.chunk.css.map": "/digitwist/static/css/main.752cac5f.chunk.css.map",
+    "static/js/2.dddfade5.chunk.js.LICENSE.txt": "/digitwist/static/js/2.dddfade5.chunk.js.LICENSE.txt",
+    "static/media/comingsoon.e35e6351.gif": "/digitwist/static/media/comingsoon.e35e6351.gif",
+    "static/media/logo.12263459.png": "/digitwist/static/media/logo.12263459.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86fa319a.js",
+    "static/js/2.dddfade5.chunk.js",
+    "static/css/main.752cac5f.chunk.css",
+    "static/js/main.eef5303c.chunk.js"
+  ]
+}
